@@ -1,0 +1,165 @@
+body{
+    font-family:"Lato", sans-serif;
+    font-size: 15px;
+}
+.menu{
+    width: 100%;
+    height: 70px;
+    background-color: black;
+  
+}
+ nav{
+    display: flex;
+    justify-content: space-between;
+  
+
+}
+nav ul li{
+    display: inline;
+    list-style-type: none;
+    
+
+
+}nav ul li a{
+    text-decoration: none;
+    color:#fff;
+    margin-left: 10px;
+    font-size: 25px;
+   
+
+}nav ul li a:hover{
+     padding: 25px;
+     background-color: #CCCCCC;
+}nav i{
+    position: relative;
+    top:15px;
+}.Hero{
+    width: 100%;
+
+
+}.content{
+    width: 100%;
+    height: 400px;
+    background-color: #fff;
+    text-align: center;
+}
+.content h2{
+    font-size: 25px;
+    
+
+}
+.content{
+    width: 100%;
+    height: 400px;
+    background-color: #fff;
+}
+
+.content .container{
+    display: flex;
+    justify-content: space-between;
+}.dates{
+    width: 100%;
+    height: 800px;
+    background-color: black;
+
+    margin-top: 90px;
+
+}.dates ul{
+    background-color: #fff;
+    padding: 10px;
+
+}.dates ul li{
+    list-style-type: none;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}.dates h3{
+    color:#fff;
+    text-align: center;
+    font-size: 30px;
+    letter-spacing: 2px;
+
+}.dates p{
+    color:#989898;
+    text-align: center;
+}
+.dates button{
+    padding: 10px;
+    background-color: red;;
+    color:white;
+    width: 90px;
+}span{
+     width: 20px;
+     height: 20px;
+  
+    border-radius: 50%;
+   background-color: black;
+    color: #fff;
+    float: right;
+    margin-bottom:15px;
+    text-align: center;
+
+
+}.tours{
+    width: 100%;
+    height: 300px;
+}.dates .btn{
+    width: 100px;
+    padding: 10px;
+    background-color: black;
+    color:#fff;
+    margin-bottom: 10px;
+
+}.dates .container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}.dates img{
+    height: 300px;
+}.dates .card{
+    background-color: #fff;
+    text-align: center;
+}.contact{
+    width: 100%;
+    
+
+}.contact-heading{
+    text-align: center;
+    font-family: Segoe UI, Arial, sans-serif;
+    font-weight: 400;
+    margin-top: 10px;
+    letter-spacing: 4px;
+}.contact .container{
+    display: flex;
+    justify-content: space-between;
+}.address {
+    font-size: 20px;
+}.kbilgi{
+    display: inline;
+}.kbilgi input{
+    font-size: 20px;
+   padding: 10px;
+}.message{
+    margin-top: 10px;
+}
+.message input{
+    font-size: 20px;
+    padding: 10px;
+    width: 530px;
+
+   
+}.contact button{
+    padding: 10px;
+    color:white;
+    background-color: black;
+    font-size: 20px;
+    float: right;
+}footer{
+    width: 100%;
+    text-align: center;
+    height: 300px;
+font-size:35px;
+margin-top: 25px;
+}footer a{
+    color:black;
+}
+
